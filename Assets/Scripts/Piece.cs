@@ -37,6 +37,7 @@ public class Piece : MonoBehaviour
         this.board.Set(this);
     }
 
+
     private bool Move(Vector2Int translation)
     {
         Vector3Int newPosition = this.position;
