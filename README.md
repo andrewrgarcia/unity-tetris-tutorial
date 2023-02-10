@@ -10,4 +10,4 @@
 
 ## Documenting progress from tutorial video
 
-Currently at time 54:52 (Movement)
+Currently at time 1:01:19 (Rotation). 
